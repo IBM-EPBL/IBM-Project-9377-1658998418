@@ -1,7 +1,7 @@
 # IBM-Project-9377-1658998418
 # University Admit Eligibility Predictor
 
-## Team Members: Surya R, Rangaraj Praveen R, Bhairav AJ, Chandhra theja reddy
+## Team Members: Surya R, Rengaraj Praveen Kumar, Bhairav AJ, Chandra teja reddy
 
 ### Abstract                                                                                                             
 Students are often worried about their chances of admission to University. The aim of this project is to help students 
